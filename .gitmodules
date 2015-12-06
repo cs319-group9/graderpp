@@ -1,3 +1,6 @@
 [submodule "graderppWeb"]
 	path = graderppWeb
 	url = https://github.com/cs319-group9/graderppWeb.git
+[submodule "graderppCore"]
+	path = graderppCore
+	url = https://github.com/cs319-group9/graderppCore.git
